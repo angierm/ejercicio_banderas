@@ -1,0 +1,18 @@
+.yellow, .gray{
+  height:100px;
+  width:200px;
+  margin:10px;
+  padding: 10px;
+  display:inline;
+
+ }
+.gray{
+  background:#020878;
+  color: #fff;
+
+ }
+.yellow{
+  background:#ffC107;
+  color: #fff;
+
+}

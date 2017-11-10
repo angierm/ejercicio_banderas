@@ -1,0 +1,15 @@
+.yellow, .gray {
+
+  padding-top: 3%;
+  height: 40px;
+  margin:10px;
+  font-family: sans-serif;
+}
+
+  .gray{
+    background:#020878;
+    color: #fff;
+  }
+  .yellow{
+    background:#FFC107 ;
+  }
